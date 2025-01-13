@@ -1,6 +1,4 @@
-#Titus Lau
-#Period 5
-#01/09/25
+#Multiplication Quiz
 
 #init
 import random
