@@ -1,6 +1,4 @@
-#Ava Lee and Titus Lau
-#Period 5
-#09/17/24
+#Jigglypuff Line Drawing
 
 #initliaize
 import turtle
