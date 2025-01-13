@@ -1,6 +1,4 @@
-#Titus Lau
-#11/20/24
-#Period 5
+#Pokemon Game
 
 #init
 level=0
