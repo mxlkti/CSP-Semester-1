@@ -1,6 +1,4 @@
-#Titus Lau
-#Period 5
-#12/11/24
+#Ticket Generator
 
 #init
 import turtle
