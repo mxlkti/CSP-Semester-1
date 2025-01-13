@@ -1,6 +1,4 @@
-#Titus Lau
-#Period 5
-#01/07/25
+#Rock, Paper, Scissors Game
 
 #init
 import random
