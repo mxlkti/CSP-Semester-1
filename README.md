@@ -25,3 +25,14 @@ This project is a rock, paper, scissors game.
 This project has questions for the user to answer to recieve a ticket from a museum.
 - asks for different questions and gives out a final price based on age and day
 - draws out a ticket using the python Turtle library
+
+#Project 6: Popmart Recommender
+This project recommends different Popmart characters for the user.
+- asks the user to spin and selects a random number
+- outputs an image based on number
+
+#Project 7: Create Task / Pixel Picture
+This project is the create task for the AP CSP exam, a character creater.
+- user can interact with buttons to change the hair, skin tone, and clothes
+- outputs a personalized image in drawing form
+- assests are in the "images" folder
