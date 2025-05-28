@@ -1,4 +1,4 @@
-# CSP-Semester-1
+# CSP-Portfolio
 
 #Project 1: Jigglypuff Line Code
 This project draws the Pokemon character Jigglypuff.
